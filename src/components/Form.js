@@ -25,8 +25,6 @@ const Form = ({input,setInput,todos,setTodos }) =>{
             required
            onChange={onInputChange}/>
            <button  className="button-add" type="submit">Add</button>
-
-
         </form>
     )
 }

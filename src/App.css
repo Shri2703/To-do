@@ -106,3 +106,8 @@ input:focus,
 button:focus{
     outline: none;
 }
+.completed {
+    text-decoration: line-through;
+    /* You can also customize other styling here */
+  }
+  
