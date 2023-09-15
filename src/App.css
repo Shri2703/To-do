@@ -4,7 +4,7 @@
 }
 
 .container {
-    background: linear-gradient( to right bottom, #e1b382, #c89666);
+    background: linear-gradient( to right bottom,#352F44, #5C5470, #B9B4C7,#FAF0E6);
     width: 100%;
     min-height: 100vh;
     display: flex;
@@ -13,7 +13,7 @@
 }
 
 .app-wrapper {
-    background-color: #12343b;
+    background-color: #FFC6AC;
     min-width: 450px;
     min-height: 650px;
     padding: 30px;
@@ -24,7 +24,7 @@
 }
 
 .header {
-    color:#fff;
+    color:#000;
     text-align: center;
     margin: 30px 0;
 }
@@ -47,8 +47,9 @@
     font-size: 20px;
     border-radius: 10px;
     border: 0;
-    background-color: #f1af71;
+    background-color: #000;
     cursor: pointer;
+    color: white;
 }
 
 .list-item {
