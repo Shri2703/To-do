@@ -3,11 +3,14 @@
 # TO-DO-LIST -using react
 
 
-![Basic](https://github.com/Shri2703/TO-DO-LIST/assets/126264718/b0a2e925-3062-4040-8300-b30b174f1e70)
+Basic ui design
+
+![Basic](https://github.com/Shri2703/To-do/assets/126264718/0412a11f-da78-464a-a4f6-1b2031014b60)
 
 
+after Completed  the To-Do
 
-
+![Complet](https://github.com/Shri2703/To-do/assets/126264718/8006b72d-4a79-4028-b69f-eb4d491b0bc0)
 
 # Getting Started with Create React App
 
